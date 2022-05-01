@@ -1,0 +1,21 @@
+1. El bucle FOR es una o varias lineas de código que se repiten un número
+determinado de veces dentro de un programa. Tiene una variable que se le 
+asigna un valor que indica desde donde inicia la repetición, una condición 
+que indica cuando termina la repetición y un contador que indica el número
+de repeticiones que se han realizado
+
+
+2.  &&, ||, ! son operadores lógicos  que  permiten agrupar dos o más condiciones en un programa.
+El operador &&  se lee AND y permite unir dos o más condiciones, las cuales todas deben ser verdaderas 
+ para que las que la resultante de unir  sea verdadera, de lo contrario la resultante será falsa. 
+
+El operador || se lee OR y permite unir varias condiciones de las cuales solo una debe ser
+verdadera para que la resultante de la unión sea verdadera. De lo contrario la resultante
+se lee NOT, y es será falsa.
+
+El operador ! una negación de la expresión o condición. Si es verdadera será falsa.
+Si es falsa será verdadera.
+
+
+
+
