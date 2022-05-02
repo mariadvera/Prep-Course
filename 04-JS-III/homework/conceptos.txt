@@ -1,0 +1,7 @@
+Arrays
+
+Arrays es una variable donde podemos almacenar no solo un valor, sino  un montón de valores o grupos de valores de diferente tipo.
+
+Por ejemplo, cuando vamos al mercado tenemos una lista de varios artículos para comprar, si colocamos cada artículo en una hoja diferente, sería
+ muy dificil hacer las compras, es como si tuvieramos una variable para guardar cada artículo. En cambio si todos los artículos los 
+ tenemos en una sola hoja, ahorrariamos mucho tiempo. Es como si, todos los artículos estuvieran en una sola variable que sería el array.
