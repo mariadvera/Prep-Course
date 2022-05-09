@@ -1,0 +1,25 @@
+Objetos:  son múltiples datos que están almacenados en variables, que podemos agrupar en un contenedor para 
+poder tratarlos como uno solo, es decir, que estén relacionados con una sola entidad.  Los objetos son otro tipo
+de datos más.  Ejemplo los datos de una persona como nombre, apellido, documento de identificación. Estos datos
+solo están relacionados con una sola persona.
+
+
+Propiedades:   son las carcterísticas que definen a un objeto, y se pueden representar por variables  (nombres o claves)
+asociadas a un valor.
+
+Métodos : cuando las propiedades de un objeto toman  como valor una funcion se llaman métodos.
+
+
+
+Bucle for ...in: es una estructura de control que permite recorrer cada una de las propiedades  de un objeto.
+
+
+Notacion de puntos vs notación de corchetes : son dos formas de acceder en js a la propiedades de un objeto. La notación de 
+corchetes permite utilizar cualquier expresion como nonbre de la propiedad. Ademas,permite utilizar una variable para almacenar 
+el nombre de la propiedad y luego utilizarla dentro de los corchetes para acceder a la propiedad.
+
+En cambio la notaciíon de puntos debe utilizar el nombre exacto de la propiedad para acceder a ella. Es literal.
+
+
+
+
